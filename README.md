@@ -1,6 +1,6 @@
 ## Indra Basket Coruña (Welcome to GitHub Pages)
 
-[editor on GitHub](https://github.com/efmpacheco/IndraBasketCoruna/edit/master/README.md).
+[Editor on GitHub](https://github.com/efmpacheco/IndraBasketCoruna/edit/master/README.md).
 
 
 ### Markdown guides
@@ -9,9 +9,9 @@
 
 ### Jekyll Themes
 
-Apariencia: [repository settings](https://github.com/efmpacheco/IndraBasketCoruna/settings)
+[Repository settings](https://github.com/efmpacheco/IndraBasketCoruna/settings)
 
 ### Support or Contact
 
-GIT docs: [documentation](https://help.github.com/categories/github-pages-basics/) 
-Contact support: or [contact support](https://github.com/contact)
+* [Documentation](https://help.github.com/categories/github-pages-basics/) 
+* [Contact support](https://github.com/contact)
